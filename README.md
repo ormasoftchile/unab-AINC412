@@ -1,2 +1,2 @@
 # unab-AINC412
-Repositorio con recursos de la asignatura Tópicos de especialidad en informática II
+Repositorio con actividades de la asignatura AINC412 Tópicos de especialidad en informática
